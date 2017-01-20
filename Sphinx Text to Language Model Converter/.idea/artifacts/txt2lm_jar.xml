@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="txt2lm:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="TextToLanguageModel.jar">
+      <element id="module-output" name="TextToLanguageModel" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>

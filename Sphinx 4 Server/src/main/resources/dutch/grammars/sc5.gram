@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar goodbye;
+
+public <zin1> = ( julia | ja | nee | stelt | aan | tegenstander | bek | houden | stil | zijn | geen | idee | weet | niet )+;
+
+<opt> = uh | tuurlijk | is | die | van | maar | in | niet | je | hebben | natuurlijk | ik | heb | echt ;

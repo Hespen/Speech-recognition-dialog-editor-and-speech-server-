@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar goodbye;
+
+public <zin1> = ( naar | binnen | gaan | schoenen | ab | wisselen | uitsmijter | normaal | doen | geen | idee | weggaan | ergens | anders | er | in | wachten | uit )+ ;
+
+<opt> = uh | tuurlijk | precies | is | die | van | maar | in | niet | je | hebben | natuurlijk | ik | heb | echt ;

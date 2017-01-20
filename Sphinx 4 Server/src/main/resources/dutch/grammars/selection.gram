@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar goodbye;
+
+public <zin1> = ( julia | abdulla | roy | remco | aisha | ab | doe | la | rem )+;

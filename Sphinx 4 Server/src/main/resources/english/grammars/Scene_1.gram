@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar scene;
+
+public <positive> = ( yes | sure | of | course | ok | okay | fine | yeah )+;
+public <negative> = ( no | nope )+;
+

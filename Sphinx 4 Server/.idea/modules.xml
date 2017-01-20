@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Speech Recognition Test.iml" filepath="$PROJECT_DIR$/.idea/modules/Speech Recognition Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Speech_Recognition_Test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Speech_Recognition_Test_main.iml" group="Speech Recognition Test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Speech_Recognition_Test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Speech_Recognition_Test_test.iml" group="Speech Recognition Test" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,139 @@
+
+\data\
+ngram 1=53
+ngram 2=73
+ngram 3=0
+
+\1-grams:
+-0.79588	</s>
+-99	<s>	-1.00231
+-1.875061	aan	-0.2833012
+-1.875061	allemaal	-0.2952004
+-1.574031	ben	-0.4593925
+-1.574031	bij	-0.3944517
+-1.875061	broeken	-0.2892916
+-1.875061	daar	-0.2952004
+-1.875061	dat	-0.2892916
+-1.875061	de	-0.2952004
+-1.875061	denken	-0.2952004
+-1.875061	doen	-0.2253093
+-1.39794	een	-0.5843312
+-1.875061	er	-0.2952004
+-1.875061	erboven	-0.2833012
+-1.875061	eronder	-0.2253093
+-1.875061	even	-0.2952004
+-1.875061	gesloten	-0.2952004
+-1.875061	hallo	-0.2833012
+-1.875061	helpen	-0.2253093
+-1.875061	hoog	-0.2833012
+-1.39794	ik	-0.5843312
+-1.574031	je	-0.4653828
+-1.875061	jean	-0.2253093
+-1.875061	jennifer	-0.2253093
+-1.574031	jij	-0.4653828
+-1.875061	kun	-0.2892916
+-1.875061	laag	-0.2952004
+-1.875061	leuke	-0.2952004
+-1.875061	me	-0.2952004
+-1.875061	model	-0.2253093
+-1.875061	naar	-0.2833012
+-1.875061	net	-0.2952004
+-1.39794	of	-0.5843312
+-1.574031	op	-0.4653828
+-1.875061	overdonderd	-0.2253093
+-1.875061	pak	-0.2952004
+-1.875061	score	-0.2253093
+-1.875061	skinny	-0.2952004
+-1.875061	spijkerbroek	-0.2253093
+-1.875061	stelde	-0.2952004
+-1.875061	taille	-0.2833012
+-1.875061	te	-0.2952004
+-1.875061	terug	-0.2253093
+-1.875061	vast	-0.2892916
+-1.875061	vragen	-0.2253093
+-1.875061	wat	-0.2952004
+-1.875061	weer	-0.2952004
+-1.574031	wel	-0.4593925
+-1.875061	zit	-0.2892916
+-1.875061	zo	-0.2952004
+-1.875061	zoek	-0.2952004
+-1.875061	zou	-0.2892916
+
+\2-grams:
+-1.113943	<s> daar
+-1.113943	<s> een
+-1.113943	<s> hallo
+-0.8129134	<s> ik
+-1.113943	<s> jennifer
+-1.113943	<s> jij
+-1.113943	<s> op
+-1.113943	<s> overdonderd
+-1.113943	<s> score
+-1.113943	<s> zit
+-1.113943	<s> zou
+-0.30103	aan een
+-0.30103	allemaal gesloten
+-0.4771213	ben op
+-0.4771213	ben zo
+-0.4771213	bij </s>
+-0.4771213	bij helpen
+-0.30103	broeken bij
+-0.30103	daar kun
+-0.30103	dat wel
+-0.30103	de taille
+-0.30103	denken aan
+-0.30103	doen </s>
+-0.60206	een hoog
+-0.60206	een leuke
+-0.60206	een skinny
+-0.30103	er even
+-0.30103	erboven of
+-0.30103	eronder </s>
+-0.30103	even wat
+-0.30103	gesloten vragen
+-0.30103	hallo ik
+-0.30103	helpen </s>
+-0.30103	hoog of
+-0.30103	ik ben
+-0.60206	ik pak
+-0.4771213	je dat
+-0.4771213	je te
+-0.30103	jean </s>
+-0.30103	jennifer </s>
+-0.4771213	jij me
+-0.4771213	jij stelde
+-0.30103	kun jij
+-0.30103	laag model
+-0.30103	leuke spijkerbroek
+-0.30103	me vast
+-0.30103	model </s>
+-0.30103	naar een
+-0.30103	net erboven
+-0.60206	of eronder
+-0.60206	of laag
+-0.60206	of net
+-0.4771213	op de
+-0.4771213	op zoek
+-0.30103	overdonderd </s>
+-0.30103	pak er
+-0.30103	score </s>
+-0.30103	skinny jean
+-0.30103	spijkerbroek </s>
+-0.30103	stelde weer
+-0.30103	taille of
+-0.30103	te denken
+-0.30103	terug </s>
+-0.30103	vast wel
+-0.30103	vragen </s>
+-0.30103	wat broeken
+-0.30103	weer allemaal
+-0.4771213	wel bij
+-0.4771213	wel doen
+-0.30103	zit je
+-0.30103	zo terug
+-0.30103	zoek naar
+-0.30103	zou je
+
+\3-grams:
+
+\end\

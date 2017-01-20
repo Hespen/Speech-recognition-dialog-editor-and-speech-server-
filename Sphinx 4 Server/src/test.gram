@@ -1,0 +1,6 @@
+#JSGF V1.0;
+
+grammar test;
+public <simple> = (i am) * (lawyer) * (investigation) * ;
+
+public <simple2> = yes ;
