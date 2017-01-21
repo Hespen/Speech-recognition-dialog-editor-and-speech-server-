@@ -27,7 +27,7 @@ Remember: Google en Wit.ai are really slow, use Sphinx 4 for the fastest result!
   
 **The editor: **  
 Windows -&gt; Nodes Editor. Right click to create new nodes or load the json file. Demo Json in Resources folder. Middle click to drag, scroll to zoom. Right click to export to json. You can attach the json to the main camera!  
-  
+To remove an option, click twice on the output button!
 
 - Keywords are used for speech recognition! They determine the accuracy.
 - Delay in Seconds before dialog is shown
